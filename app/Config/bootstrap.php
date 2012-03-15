@@ -72,9 +72,9 @@ CakePlugin::load('Flickr');
 Configure::write('Flickr.posting_url', 'http://api.flickr.com/services/rest/');
 Configure::write(
     'Flickr.defaults', array(
-        'api_key' => '0892321caab1abe4bc0f9a7485c8fbc6',
-        'user_id' => '13568039@N05',
-        'flickr_secret' => 'f2387091b8fdf554',
+        'api_key' => 'xxxxxxxxxxxxxxxxxxxxxx',
+        'user_id' => 'xxxxxxxxxxxxxxxxxxx',
+        'flickr_secret' => 'xxxxx',
         'method' => 'flickr.photos.search',
         'format' => 'php_serial',
         'extras' => 'description, date_taken'

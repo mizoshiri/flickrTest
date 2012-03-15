@@ -5,13 +5,16 @@ App::uses('GalleriesController', 'Controller');
 /**
  * TestGalleriesController *
  */
-class TestGalleriesController extends GalleriesController {
+class TestGalleriesController extends PHPUnit_Framework_TestCase {
 /**
  * Auto render
  *
  * @var boolean
  */
 	public $autoRender = false;
+  public function testManyPage(){
+
+  }
 
 /**
  * Redirect action
