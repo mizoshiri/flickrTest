@@ -144,3 +144,38 @@
 #3 /home/ayumi/work/www/jobs/Pollenizer/flickerTest/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(FlickersController), Object(CakeRequest), Object(CakeResponse))
 #4 /home/ayumi/work/www/jobs/Pollenizer/flickerTest/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2012-03-21 01:36:57 Error: [NotFoundException] Not Found
+#0 [internal function]: GalleriesController->index()
+#1 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(GalleriesController), Array)
+#2 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#3 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(GalleriesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-21 01:37:49 Error: [NotFoundException] Not Found
+#0 [internal function]: GalleriesController->index()
+#1 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(GalleriesController), Array)
+#2 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#3 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(GalleriesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-21 01:42:06 Error: [NotFoundException] Not Found
+#0 [internal function]: GalleriesController->index()
+#1 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(GalleriesController), Array)
+#2 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#3 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(GalleriesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-21 01:43:18 Error: [NotFoundException] Not Found
+#0 [internal function]: GalleriesController->index()
+#1 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(GalleriesController), Array)
+#2 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#3 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(GalleriesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-21 01:45:15 Error: [NotFoundException] Not Found
+#0 [internal function]: GalleriesController->index()
+#1 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(GalleriesController), Array)
+#2 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#3 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(GalleriesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/ayumi/work/www/jobs/Pollenizer/flickrGit/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
