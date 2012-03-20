@@ -1,5 +1,7 @@
 <?php
 /* Galleries Test cases generated on: 2012-03-16 04:06:06 : 1331831166*/
+App::uses('Controller', 'Controller');
+App::uses('AppController', 'Controller');
 App::uses('GalleriesController', 'Controller');
 
 /**
@@ -12,7 +14,7 @@ class TestGalleriesController extends PHPUnit_Framework_TestCase {
  * @var boolean
  */
 	public $autoRender = false;
-  public function testManyPage(){
+  public function testIndex(){
 
   }
 

@@ -1,16 +1,12 @@
 <?php
-
-echo $this->element('search');
-
 echo $this->element('pager');
+
 echo "<ul>";
-echo $this->Flickr->getPhotos(
-    $photos,
+echo $this->Flickr->getPhotoLists(
+    $list,
     array('type' => 'li'),
-    array('rel' => 'example1', 'title' => 'flickr_title' ,'class' => 'lightview',),
-    array('size' => 'm'),
-    array(),
-    array('type' => 'p', 'caption' => 'flickr_description')
+    array('class' => 'lightview'),
+    array('size' => 'm')
 );
 echo "</ul>";
 

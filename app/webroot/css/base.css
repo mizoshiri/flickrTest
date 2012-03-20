@@ -2,7 +2,13 @@
 
 #content ul li{
 float: left;
+list-style: none;
 }
 #pager{
 clear: both;
+padding: 10px;
+}
+#pager span{
+margin: 3px;
+border: 1px solid #999;
 }

@@ -1,4 +1,5 @@
 <?php
-class AppController extends Controller{
+class AppController extends Controller {
   public $components = array('DebugKit.Toolbar');
 }
+?>
