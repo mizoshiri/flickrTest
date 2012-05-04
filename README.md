@@ -1,6 +1,6 @@
 # Test about Flickr API
 This code for Test about Flickr API
-
+test6
 
 ## Setting
  Configure::write('Flickr.posting_url', 'http://api.flickr.com/services/rest/');
